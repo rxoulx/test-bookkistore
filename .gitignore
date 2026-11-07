@@ -1,0 +1,9 @@
+.env
+/web/src/.env
+/web/src/vendor/
+/web/src/storage/logs/*
+/web/src/storage/framework/cache/data/*
+/web/src/storage/framework/sessions/*
+/web/src/storage/framework/views/*
+/web/src/bootstrap/cache/*.php
+*.tar.gz
